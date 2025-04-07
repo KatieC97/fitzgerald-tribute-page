@@ -32,7 +32,7 @@ A clean, responsive tribute page celebrating the life and works of author F. Sco
 ### Mobile View
 
 ![Mobile Screenshot of tribute page](./Screenshots/fitzgerald-tribute-page-mobile-one.png)
-![Mobile Screenshot of tribute page](./Screenshots/fitzgerald-tribute-page-mobile-one.png)
+![Mobile Screenshot of tribute page](./Screenshots/fitzgerald-tribute-page-mobile-two.png)
 
 ## Author
 
