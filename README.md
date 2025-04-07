@@ -25,14 +25,14 @@ A clean, responsive tribute page celebrating the life and works of author F. Sco
 
 ### Desktop View
 
-![Desktop Screenshot of tribute page](./screenshots/fitzgerald-tribute-page-desktop-one.png)
+![Desktop Screenshot of tribute page](./Screenshots/fitzgerald-tribute-page-desktop-one.png)
 
-![Desktop Screenshot of tribute page](./screenshots/fitzgerald-tribute-page-desktop-two.png)
+![Desktop Screenshot of tribute page](./Screenshots/fitzgerald-tribute-page-desktop-two.png)
 
 ### Mobile View
 
-![Mobile Screenshot of tribute page](./screenshots/fitzgerald-tribute-page-mobile-one.png)
-![Mobile Screenshot of tribute page](./screenshots/fitzgerald-tribute-page-mobile-one.png)
+![Mobile Screenshot of tribute page](./Screenshots/fitzgerald-tribute-page-mobile-one.png)
+![Mobile Screenshot of tribute page](./Screenshots/fitzgerald-tribute-page-mobile-one.png)
 
 ## Author
 
