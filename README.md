@@ -19,12 +19,20 @@ A clean, responsive tribute page celebrating the life and works of author F. Sco
 
 ## Live Demo
 
-[View the live site on GitHub Pages](https://yourusername.github.io/fitzgerald-tribute-page/)
-_(Replace `yourusername` with your GitHub handle once deployed)_
+[View the live site on GitHub Pages](https://katiec97.github.io/fitzgerald-tribute-page/)
 
 ## Screenshots
 
-![Screenshot of tribute page](./screenshots/fitzgerald-tribute.png) _(optional)_
+### Desktop View
+
+![Desktop Screenshot of tribute page](./screenshots/fitzgerald-tribute-page-desktop-one.png)
+
+![Desktop Screenshot of tribute page](./screenshots/fitzgerald-tribute-page-desktop-two.png)
+
+### Mobile View
+
+![Mobile Screenshot of tribute page](./screenshots/fitzgerald-tribute-page-mobile-one.png)
+![Mobile Screenshot of tribute page](./screenshots/fitzgerald-tribute-page-mobile-one.png)
 
 ## Author
 
